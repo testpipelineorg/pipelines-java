@@ -1,6 +1,3 @@
-[![Build Status](https://dev.azure.com/testpipelineorg/pipelinetest/_apis/build/status/testpipelineorg.pipelines-java?branchName=master)](https://dev.azure.com/testpipelineorg/pipelinetest/_build/latest?definitionId=4&branchName=master)
-
-
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
