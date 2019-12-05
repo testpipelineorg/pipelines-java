@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/testpipelineorg/pipelinetest/_apis/build/status/vanjush.testproject?branchName=master)](https://dev.azure.com/testpipelineorg/pipelinetest/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/testpipelineorg/pipelinetest/_apis/build/status/testpipelineorg.pipelines-java?branchName=master)](https://dev.azure.com/testpipelineorg/pipelinetest/_build/latest?definitionId=4&branchName=master)
 
 
 # Contributing
